@@ -1,16 +1,22 @@
-## Hi there 👋
+Hola, soy Juan 👋🏼
+Estudiante de Desarrollo de Software 👨‍💻 con un vision clara.
+Utilizar la tecnologia para mejorar la vida de los demas...
+Como padre de familia 👨‍👨‍👧‍👧, entiendo la importancia de simplificar las cosas
+para que todos puedan disfrutar de mas tiempo y energia para lo que realmente importa.
 
-<!--
-**JJMDT/JJMDT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi pasion por la tecnologia me llevo a elegir la programacion 👨🏼‍💻 como carrera,
+y mi objetivo 🎯 es crear sistemas que faciliten la vida diaria de las personas.
 
-Here are some ideas to get you started:
+Me motiva investigar🕵🏼‍♂️ y aprender 📚 para ofrecer soluciones innovadoras 💡.
+Pienso que la tecnologia debe ser una herramienta para ayudar a los demas, no solo una forma 
+de avanzar en mi carrera.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estoy emocionado de comparir mis conocimientos y experiencias con otros
+y aprender de ellos tambien.
+
+
+🎓 Desarrollo de Software (actualidad) - IFTS N°11
+🛠️ Proactivo, trabajo en equipo, comunicación efectiva, adaptabilidad y aprendizaje continuo
+🎮 Me gusta jugar
+💪🏼 Me gusta entrenar y hacer deportes
+
